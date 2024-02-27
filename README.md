@@ -1,3 +1,5 @@
+### Name: Meena S
+### Register Number: 212221240028
 # Ex.No: 01 PLOT A TIME SERIES DATA
 ###  Date: 22-02-2024
 
